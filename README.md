@@ -1,5 +1,4 @@
 # virtualbox-snapshot-restore
-# virtualbox-snapshot-restore-project
 
 ## 🌀 Snapshot & Restore Testing (VirtualBox)
 
